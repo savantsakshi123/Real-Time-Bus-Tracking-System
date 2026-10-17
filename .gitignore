@@ -1,0 +1,24 @@
+# Java compiled files
+*.class
+
+# Logs
+*.log
+
+# IDE and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+
+# Environment and secret configuration
+.env
+.env.*
+!.env.example
+
+# Build output
+target/
+build/
+
+# Temporary files
+*.tmp
+*.bak
